@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cf5a8be1998a60b499156a34fa03ef9a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SmokeTex: {fileID: 2800000, guid: b710175c8e4fe2b48b9da399367e9511, type: 3}
+  - _Normal: {fileID: 2800000, guid: ed365f56d57f7fd4f932fe9c98ae9d3d, type: 3}
+  - _FireMask: {fileID: 2800000, guid: 6364cf4f1d4eebd4596fa7baa11d6420, type: 3}
+  - _OpacityMask: {fileID: 2800000, guid: b710175c8e4fe2b48b9da399367e9511, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1b5e1b3bba82ce048a97e19b4c40ba39
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainSprite: {fileID: 2800000, guid: f0c4e6bb8e5702e409fe876161e2384f, type: 3}
+  - _SmokeNoiseMask: {fileID: 2800000, guid: b710175c8e4fe2b48b9da399367e9511, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
